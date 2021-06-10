@@ -1,0 +1,13 @@
+{
+  "appId": "lzchn.ion.app",
+  "appName": "ionApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
